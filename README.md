@@ -22,8 +22,8 @@ import numpy as np
 A = np.array([[5, -3, -10], [2, 2, -3],[-3, -1, 5]])
 b = np.array([-9, 4, -1])
 x = np.linalg.solve(A, b)
-```
 print(x)
+```
 ## Output:
 
 ![Screenshot 2024-03-18 215433](https://github.com/Krishna23013541/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/149557764/638e3cce-852e-4737-b9c5-7646b0225161)
